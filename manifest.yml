@@ -4,5 +4,5 @@ applications:
   instances: 1
   domain: mybluemix.net
   name: whdeopstest
-  host: JackyW168
+  host: whdeopstest
   disk_quota: 1024M
